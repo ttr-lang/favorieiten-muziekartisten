@@ -3,12 +3,18 @@ body {
     background-color: #EEFFCC;
 
     .title {
-        color: rgb(25, 147, 192)
+        color: rgb(25, 147, 192);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     a:hover {
     color: rgb(137, 7, 146);
-    .table {
 
+    }
+
+    .apolloimg img {
+        border-radius: 8px;
+        width: 20%;
+        height: 20%;
     }
 
 }
